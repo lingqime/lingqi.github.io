@@ -51,8 +51,10 @@ topics:
     web_url: https://www.python.org
     image_url: icons/python icon.jpg
 
-  - name: Web design
+  - name: Javascript
+    web_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    image_url: icons/python icon.jpg
 
-  - name: Sass
+  - name: C++
     web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: 
