@@ -49,7 +49,7 @@ projects:
 topics:
   - name: Python
     web_url: https://www.python.org
-    image_url: https://github.com/lingqime/lingqime.github.io/blob/master/icons/python%20icon.jpg
+    image_url: icons/python icon.jpg
 
   - name: Web design
 
