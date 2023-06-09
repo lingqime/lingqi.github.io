@@ -53,8 +53,8 @@ topics:
 
   - name: Javascript
     web_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-    image_url: icons/python icon.jpg
+    image_url: icons/JS icon.jpg
 
   - name: C++
-    web_url: https://github.com/topics/sass
-    image_url: 
+    web_url: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
+    image_url: icons/Cpp icon.jpg
